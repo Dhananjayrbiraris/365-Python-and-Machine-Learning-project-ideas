@@ -1,1 +1,1 @@
-# Dhananjayrbiraris-365-Python-and-Machine-Learning-project-ideas
+# 365-Python-and-Machine-Learning-project-ideas
