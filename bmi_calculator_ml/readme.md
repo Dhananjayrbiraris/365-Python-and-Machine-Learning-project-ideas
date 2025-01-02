@@ -30,13 +30,13 @@ scikit-learn
 
 You can install the required libraries using pip:
 
-pip install numpy scikit-learn
+### pip install numpy scikit-learn
 
 Usage
 
-Clone the repository:
+## Clone the repository:
 
-git clone https://github.com/yourusername/bmi_calculator_ml.git
+### git clone https://github.com/yourusername/bmi_calculator_ml.git
 
 Navigate to the project directory:
 
@@ -60,26 +60,23 @@ Model Training: A Linear Regression model is used to predict BMI based on height
 
 BMI Calculation: Uses the formula:
 
-BMI = weight / (height ** 2)
+### BMI = weight / (height ** 2)
 
 BMI Categorization: The predicted BMI is categorized into health ranges based on standard BMI classification.
 
-Example
+## Example
 
-Input:
+## Input:
 
 Enter your height in meters: 1.75
 Enter your weight in kg: 70
 
-Output:
+## Output:
 
 Your predicted BMI is: 22.86
 BMI Category: Normal weight
 
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contribution
+## Contribution
 
 Feel free to fork this repository, create a new branch, and submit a pull request for any features or improvements. Contributions are welcome!
