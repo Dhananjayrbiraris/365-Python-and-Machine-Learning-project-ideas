@@ -1,4 +1,4 @@
-BMI Calculator Using Python and Machine Learning
+# BMI Calculator Using Python and Machine Learning
 
 This project is a Body Mass Index (BMI) calculator implemented in Python. It uses the Linear Regression model from scikit-learn to predict BMI based on user inputs of height and weight. Additionally, it categorizes the predicted BMI into various health ranges.
 
