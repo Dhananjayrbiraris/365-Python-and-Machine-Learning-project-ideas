@@ -1,0 +1,14 @@
+flask
+chromadb
+sentence-transformers
+PyPDF2
+python-dotenv
+rank-bm25
+python-docx
+openpyxl
+groq
+duckduckgo-search
+requests
+beautifulsoup4
+numpy
+pandas
